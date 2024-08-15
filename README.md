@@ -1,15 +1,16 @@
 ![Cover_4](https://github.com/user-attachments/assets/e43ed7a5-7289-4c97-993b-3188c1da592f)
 # 📌프로젝트 소개
 
-## 게임이름 : LittleRedRidingHood
+## 🎉Title : LittleRedRidingHood
 
-[![프로젝트 소개](https://img.shields.io/badge/프로젝트_소개-blue?style=for-the-badge)](https://www.notion.so/teamsparta/A08-Little-Red-Riding-Hood-aec2ddd3436a482cbae0b0a5250be209)
+[![프로젝트 소개](https://img.shields.io/badge/프로젝트_소개-black?style=for-the-badge)](https://www.notion.so/teamsparta/A08-Little-Red-Riding-Hood-aec2ddd3436a482cbae0b0a5250be209)
+▲△ Click Icon!
 
 ### 사용 기술 스택
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-## 만든 사람들
+## Team : DreamWeaver 
 
 ### 팀장 : 하지훈
 [![GitHub](https://img.shields.io/badge/GitHub-하지훈-black?style=flat-square&logo=github)](https://github.com/hajeehoon12?tab=repositories)
