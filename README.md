@@ -3,7 +3,7 @@
 
 ## 게임이름 : LittleRedRidingHood
 
-![프로젝트 소개](https://img.shields.io/badge/프로젝트_소개-blue?style=for-the-badge)(https://www.notion.so/teamsparta/A08-Little-Red-Riding-Hood-aec2ddd3436a482cbae0b0a5250be209)
+[![프로젝트 소개](https://img.shields.io/badge/프로젝트_소개-blue?style=for-the-badge)](https://www.notion.so/teamsparta/A08-Little-Red-Riding-Hood-aec2ddd3436a482cbae0b0a5250be209)
 
 ### 사용 기술 스택
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
